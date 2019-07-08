@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dd383e9-4f24-42d6-a57f-a85f530bd5eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Solution.java" afterDir="false" />
+    <list default="true" id="e7188930-c740-4568-8abb-c453f1efaaa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SockMerchant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SockMerchant/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SockMerchant/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SockMerchant/src/com/company/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+            <state relative-caret-position="561">
+              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +51,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="95" />
+    <option name="x" value="541" />
+    <option name="y" value="83" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -66,17 +66,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="SockMerchant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SockMerchant" type="462c0819:PsiDirectoryNode" />
+              <item name="Counting Valleys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counting Valleys" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SockMerchant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SockMerchant" type="462c0819:PsiDirectoryNode" />
+              <item name="Counting Valleys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counting Valleys" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SockMerchant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SockMerchant" type="462c0819:PsiDirectoryNode" />
+              <item name="Counting Valleys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Counting Valleys" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -87,9 +87,6 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,7 +103,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Solution" />
-      <module name="SockMerchant" />
+      <module name="Counting Valleys" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -124,18 +121,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2dd383e9-4f24-42d6-a57f-a85f530bd5eb" name="Default Changelist" comment="" />
-      <created>1562431312980</created>
+      <changelist id="e7188930-c740-4568-8abb-c453f1efaaa2" name="Default Changelist" comment="" />
+      <created>1562438983567</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562431312980</updated>
+      <updated>1562438983567</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -144,7 +142,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16005665" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28328612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -166,8 +164,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        <state relative-caret-position="561">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
